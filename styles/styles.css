@@ -113,7 +113,7 @@
 
 .hero-img{
     min-height: 600px;
-    background-image: url("images/Hero Image from Full Stack Bootcamp.png");
+    background-image: url("/images/Hero\ Image\ from\ Full\ Stack\ Bootcamp.png");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 16px;
